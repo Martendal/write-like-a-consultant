@@ -31,3 +31,52 @@ Finir sobrement avec :
 
 Cordialement,
 [SIGNATURE]
+
+
+
+# Expressions utiles
+- Considérant
+- Où que nous mène
+- En ce qui concerne
+- Dans le cas particulier de
+- Quel que soit
+- Du fait de
+- Tant que durera
+- Il convient de
+- Nous nous devons de
+- Il est préférable de
+- Il serait intéressant de
+- Il ne faut pas négliger de
+- Il est nécessaire de
+- Il serait bon de
+- Il faut de toute urgence
+
+
+# Actions
+- Etudier
+- Examiner
+- Ne pas négliger
+- Prendre en considération
+- Anticiper
+- Imaginer
+- Se préoccuper de
+- S'intérresser à
+- Avoir à l'esprit
+- Se remémorer
+
+# Quantifier
+- Toutes les
+- Chacune des
+- La majorité des
+- L'ensemble des
+- La somme des
+- La totalité de
+- La globalité de
+- Certaines
+
+# Qualificatifs
+- Envisageable
+- Possible
+- Déjà en notre possession
+- S'offrant à nous
+- De bon sens
